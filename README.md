@@ -13,7 +13,7 @@ add controllers, views, routes and model folder
 update your database name in config.json
 ```
 -> sequelize init
--> sequelize model:generate --name test --attributes name:string (You can set it according to the database you want to create.)
+-> sequelize model:generate --name test --attributes full_name:string,user_name:string (You can set it according to the database you want to create.)
 -> sequelize db:migrate
 ```
 if you have any error try this
