@@ -39,7 +39,7 @@ C:\Users\selman\AppData\Roaming\npm\node_modules\sequelize-cli
 > 5. sequelize
 > 6. sequelize-cli (global)
 
-## Packeage.json
+## Package.json
 ![Packega.json](https://i.hizliresim.com/9dqcp0w.png)
 
 ## Folders
