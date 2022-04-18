@@ -8,17 +8,17 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER
       },
-      password: {
+      username: {
         type: Sequelize.STRING
       },
       full_name: {
         type: Sequelize.STRING
       },
-      user_name: {
-        type: Sequelize.STRING
+      email : {
+        type : Sequelize.STRING
       },
-      user_id: {
-        type: Sequelize.INTEGER
+      password: {
+        type: Sequelize.STRING
       },
       createdAt: {
         allowNull: false,
@@ -27,6 +27,14 @@ module.exports = {
       updatedAt: {
         allowNull: false,
         type: Sequelize.DATE
+      },
+      isDeleted: {
+        type: Sequelize.BOOLEAN,
+        defaultValue : false
+      },
+      isActive: {
+        type: Sequelize.BOOLEAN,
+        defaultValue : false
       }
     });
   },
