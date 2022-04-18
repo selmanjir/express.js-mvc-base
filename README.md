@@ -44,7 +44,7 @@ C:\Users\selman\AppData\Roaming\npm\node_modules\sequelize-cli
 ![Packega.json](https://i.hizliresim.com/9dqcp0w.png)
 
 ## Folders
-![Folders](https://i.hizliresim.com/nlyk7r5.png)
+![Folders](https://i.hizliresim.com/ouw3u3w.jpg)
 
 
 
